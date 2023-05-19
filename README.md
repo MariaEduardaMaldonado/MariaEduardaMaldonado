@@ -18,11 +18,13 @@
   
 - ⚡ I'm interested in **DevOps, Cloud and Cybersecurity.**
     <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img 
-    src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img 
+    src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img
     src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img
     src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <img
-    </p>
 
+    </p>
+ 
+    
 - 👨‍💻 All of my projects are available at: 
     ```ruby
     https://github.com/MariaEduardaMaldonado
@@ -40,8 +42,8 @@
 
 </p>
 
-* <h3 align="left">Tools, plataforms and frameworks:</h3>
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img 
+<h3 align="center"> - Tools, plataforms and frameworks:</h3>
+<p align="center"> <a href="" target="_blank" rel="noreferrer"> <img 
 src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"> <img
 src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img
 src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img
@@ -50,26 +52,28 @@ src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkin
 src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img
   </p>
     
- * <h3 align="left">Office and virtualization:</h3>
-  <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img 
+ <h3 align="center"> - Office and virtualization:</h3>
+  <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img 
    src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> <img
    src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white"> <img
    src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"> <img
     </p>
 
-* <h3 align="left">Languages:</h3>
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img  
+<h3 align="center"> - Languages:</h3>
+<p align="center"> <a href="" target="_blank" rel="noreferrer"> <img  
 src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img 
  </p>
 
-* <h3 align="left">OS:</h3>
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img 
+<h3 align="center"> - OS:</h3>
+<p align="center"> <a href="" target="_blank" rel="noreferrer"> <img 
 src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img
 src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img
-</p>
+</p> 
+    
+</br>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"> - Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/maria-eduarda-lopes-maldonado" target="blank"><img align="center" 
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img
