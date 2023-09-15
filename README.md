@@ -62,8 +62,11 @@ src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&log
 <h3 align="center"> - Languages:</h3>
 <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img  
 src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img 
- </p>
+src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img
+src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img
+      </p>                                                                                                        
+<!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  -->
+
 
 <h3 align="center"> - OS:</h3>
 <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img 
