@@ -10,12 +10,8 @@
   
 - 💻 I'm a Bachelor's student in Information Systems and i'm always looking for new opportunities and challenges.
 
-- 🌱 I’m currently learning **more about database administration, networks and hypermedia applications.**
-  <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img 
-  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img
-  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img
-  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img
-  
+- 🌱 I'm currently learning more about web programming and information security, as well as delving deeper into DevOps tools and platforms, such as: **AWS services and Terraform.**
+
 - ⚡ I'm interested in **DevOps, Cloud and Cybersecurity.**
     <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img 
     src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img
@@ -51,7 +47,14 @@ src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labe
 src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img
 src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img
   </p>
-    
+
+<h3 align="center"> - Web programming:</h3>
+<p align="center"> <a href="" target="_blank" rel="noreferrer"> <img 
+  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img
+  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img
+  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img
+  </p>
+  
  <h3 align="center"> - Office and virtualization:</h3>
   <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img 
    src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> <img
@@ -59,7 +62,7 @@ src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&log
    src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"> <img
     </p>
 
-<h3 align="center"> - Languages:</h3>
+<h3 align="center"> - Programming languages:</h3>
 <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img  
 src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit"> <img
 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img
