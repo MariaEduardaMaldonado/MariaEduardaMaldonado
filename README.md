@@ -1,86 +1,98 @@
-<h2 align="center">👋 Hello! Welcome to my Github profile 😄. </h2>
-<h2 align="center">My name is Maria Eduarda!</h2>
+<h1 align="center">👋 DevOps Engineer | Solutions Architect | Cloud & AWS-Focused</h1>
+<h3 align="center">Cloud Automation | Infrastructure as Code | CI/CD Pipelines</h3>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=MARIAEDUARDAMALDONADO&color=f8efd4&style=for-the-badge&logo=GitHub">
+---
 
-<img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariaeduardamaldonado">
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=mariaeduardamaldonado&show_icons=true&theme=radical"> -->
+### 👩‍💻 About Me
 
-<p>
-  
-- 💻 I'm a Bachelor's student in Information Systems and i'm always looking for new opportunities and challenges.
+I'm a DevOps Engineer and Solutions Architect with real-world experience building, automating, and scaling cloud infrastructure.
 
-- 🌱 I'm currently learning more about web programming and information security, as well as delving deeper into DevOps tools and platforms, such as: **AWS services and Terraform.**
+- 🌎 Working with international DevOps teams and clients in North America and Brazil  
+- ⚙️ Deep experience with **AWS services**, **Terraform**, **Kubernetes**, and **CI/CD automation**
+- 🧑‍💻 Also experienced in **Python scripting**, **Bash scripting**, **Flask**, and building DevOps tooling
+- 💻 Knowledge in **C**, **Java**, **JavaScript**, and **PHP** (basic)  
+- 🌐 Web programming basics: **HTML**, **CSS**, and **JavaScript**  
+- 📦 Strong focus on **reliability**, **scalability**, and **secure cloud deployments**  
+- 📊 Experience with Agile methodologies: **Scrum**, **Kanban**, **XP**  
+- ⚙️ Comfortable with **Argo Workflows** and multi-cloud environments  
 
-- ⚡ I'm interested in **DevOps, Cloud and Cybersecurity.**
-    <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img 
-    src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img
-    src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img
-    src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <img
+---
 
-    </p>
- 
-    
-- 👨‍💻 All of my projects are available at: 
-    ```ruby
-    https://github.com/MariaEduardaMaldonado
-    ```
-    <p align="left"> <a href="https://github.com/MariaEduardaMaldonado" target="_blank" rel="noreferrer"> <img 
-    src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img
-    
-- 📄 Know more about my experiences:
-    ```ruby
-    https://linkedin.com/in/maria-eduarda-lopes-maldonado
-    ```
-    <p align="left">
-    <a href="https://linkedin.com/in/maria-eduarda-lopes-maldonado" target="blank"><img align="center" 
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img
+### ☁️ AWS Experience
 
+Here are the AWS services I’ve worked with in real projects:
+
+- **Compute & Containers**: EC2, ECS, EKS, Lambda, ASG, ALB, ECR  
+- **Storage & Database**: S3, EBS, EFS, RDS (MySQL, MariaDB), DynamoDB  
+- **Networking & Security**: VPC, IAM, ACM, CloudFront, Route53, Security Groups, AWS Organizations  
+- **Developer & Automation Tools**: CodePipeline, CodeBuild, CodeDeploy, CodeCommit, CloudFormation, Config, EventBridge  
+- **Monitoring & Logging**: CloudWatch  
+- **Infrastructure as Code**: Terraform, CloudFormation, Boto3 (Python SDK)  
+
+---
+
+### 🔧 Tech Stack
+
+**DevOps & Cloud Tools**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)
+![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Argo](https://img.shields.io/badge/Argo-221F4E?logo=argo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+
+**Programming & Automation**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+**OS & Tools**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=atlassian&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+
+---
+
+### 💼 Professional Highlights
+
+```diff
++ DevOps Engineer @ EZOps Cloud (2023–Present)
++ Building CI/CD pipelines using AWS CodePipeline, CodeBuild, CodeDeploy
++ Automating infrastructure using Terraform and CloudFormation
++ Container orchestration with Docker, Kubernetes and Helm
++ Developed automation scripts with Python, Bash, and Boto3
++ Hands-on experience with Argo Workflows for Kubernetes-native automation
++ Worked with Agile methodologies: Scrum, Kanban, XP
++ Extensive hands-on experience with AWS; also managed and worked with Azure and GCP services
+```
+
+### 📫 Connect with me
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/maria-eduarda-lopes-maldonado" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a> 
+  <a href="https://github.com/MariaEduardaMaldonado" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+  </a> 
 </p>
 
-<h3 align="center"> - Tools, plataforms and frameworks:</h3>
-<p align="center"> <a href="" target="_blank" rel="noreferrer"> <img 
-src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"> <img
-src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img
-src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img
-src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689"> <img
-src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img
-src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img
-  </p>
-
-<h3 align="center"> - Web programming:</h3>
-<p align="center"> <a href="" target="_blank" rel="noreferrer"> <img 
-  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img
-  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img
-  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img
-  </p>
-  
- <h3 align="center"> - Office and virtualization:</h3>
-  <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img 
-   src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> <img
-   src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white"> <img
-   src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"> <img
-    </p>
-
-<h3 align="center"> - Programming languages:</h3>
-<p align="center"> <a href="" target="_blank" rel="noreferrer"> <img  
-src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit"> <img
-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img
-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img
-      </p>                                                                                                        
-<!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  -->
-
-
-<h3 align="center"> - OS:</h3>
-<p align="center"> <a href="" target="_blank" rel="noreferrer"> <img 
-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img
-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img
-</p> 
-    
-</br>
-
-<h3 align="center"> - Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/maria-eduarda-lopes-maldonado" target="blank"><img align="center" 
-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img
-</p>
