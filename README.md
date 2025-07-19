@@ -85,6 +85,15 @@ Here are the AWS services I’ve worked with in real projects:
 + Extensive hands-on experience with AWS; also managed and worked with Azure and GCP services
 ```
 
+---
+
+### 🌐 Languages
+
+- Portuguese: Native or bilingual proficiency  
+- English: Professional working proficiency  
+
+---
+
 ### 📫 Connect with me
 
 <p align="center"> 
